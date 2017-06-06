@@ -10,6 +10,33 @@
 * 对每一对相邻元素作同样的工作，从开始第一对到结尾的最后一对。在这一点，最后的元素应该会是最大的数。
 * 针对所有的元素重复以上的步骤，除了最后一个。
 * 持续每次对越来越少的元素重复上面的步骤，直到没有任何一对数字需要比较。
+```
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int sort[] = { 67, 69, 75, 87, 89, 90, 99, 100 };
+		for (int i = 0; i < sort.length; i++) {
+			// j的范围很关键，这个范围是在逐步缩小的
+			for (int j = 0; j < sort.length - i - 1; j++) {
+				if (sort[j] < sort[j + 1]) {
+					// 把小的交换到后面
+					int tempSort = sort[j];
+					sort[j] = sort[j + 1];
+					sort[j + 1] = tempSort;
+				}
+			}
+			System.out.println("第" + (i + 1) + "次排序结果：");
+			for (int a = 0; a < sort.length; a++) {
+				System.out.print(sort[a] + "\t");
+			}
+			System.out.println("");
+		}
+		System.out.println("最终排序结果：");
+		for (int a = 0; a < sort.length; a++) {
+			System.out.print(sort[a] + "\t");
+		}
+	}
+
+```
 
 
 #### LinkLiat & ArrayList比较
@@ -23,7 +50,14 @@
 * Druid
 * Druid连接池统计功能过滤器 .xml
 
+线程池的原理及实现
+http://blog.csdn.net/hsuxu/article/details/8985931
+
+#### 并发
+高并发量网站解决方案
+
 #### 事务隔离级别
+http://www.cnblogs.com/younggun/archive/2013/07/16/3193800.html
 * Read uncommitted
  * 就是一个事务可以读取另一个未提交事务的数据   脏读
  * 事例：老板要给程序员发工资，程序员的工资是3.6万/月。但是发工资时老板不小心按错了数字，按成3.9万/月，该钱已经打到程序员的户口，但是事务还没有提交，就在这时，程序员去查看自己这个月的工资，发现比往常多了3千元，以为涨工资了非常高兴。但是老板及时发现了不对，马上回滚差点就提交了的事务，将数字改成3.6万再提交。
@@ -43,6 +77,10 @@
  * Serializable 是最高的事务隔离级别，在该级别下，事务串行化顺序执行，可以避免脏读、不可重复读与幻读。但是这种事务隔离级别效率低下，比较耗数据库性能，一般不使用。
 * 值得一提的是：大多数数据库默认的事务隔离级别是Read committed，比如Sql Server , Oracle。MySQL的默认隔离级别是Repeatable read。
 
+Spring事务的传播行为，并说说每个传播行为的区别
+
+Spring事务机制
+http://blog.csdn.net/pingnanlee/article/details/11488695
 #### 分布式事务
 
 #### 死锁原理
@@ -57,7 +95,9 @@
 * 循环等待 
 
 #### 设计模式：使用场景、比如单例模式、工厂模式（为什么使用）代理模式
-
+http://zz563143188.iteye.com/blog/1847029
+单例模式的七种写法
+http://cantellow.iteye.com/blog/838473
 
 #### spring：工作原理、源码阅读、ico、aop，事务原理
 #### SpringMVC：工作原理、注解、mvc、流程
@@ -66,6 +106,9 @@
 
 #### 图片服务器：fastDFS
 #### nginx:配置
+http://www.cnblogs.com/xiaogangqq123/archive/2011/03/02/1969006.html
+web如何项目优化
+http://bbs.csdn.net/topics/391849317
 #### 高并发解决方案：nginx+tomcat多节点
 #### tomcat:配置、jvm配置（session会话同步Tomcat-Redis-Cluster-manager，tomcat插件）
 
@@ -77,6 +120,13 @@ java：虚拟机、拆封箱integer(128)==128 false integer(127)==127 引发java
 redis集群部署
 jenkins:持续集成
 git：命令
+
+消息队列的原理和实现（http://blog.csdn.net/blade2001/article/details/5193464）
+
+深入浅出 消息队列 ActiveMQ（http://blog.csdn.net/jwdstef/article/details/17380471）
+
+
+Java高级工程师常见面试题（http://www.itmayiedu.com/front/articleinfo/63.html）
 
 
 * [mou](http://mouapp.com/) 
