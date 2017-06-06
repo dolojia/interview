@@ -121,12 +121,12 @@ redis集群部署
 jenkins:持续集成
 git：命令
 
-[消息队列的原理和实现]（http://blog.csdn.net/blade2001/article/details/5193464）
+消息队列的原理和实现(http://blog.csdn.net/blade2001/article/details/5193464)
 
-[深入浅出 消息队列 ActiveMQ]（http://blog.csdn.net/jwdstef/article/details/17380471）
+[深入浅出 消息队列 ActiveMQ](http://blog.csdn.net/jwdstef/article/details/17380471)
 
 
-[Java高级工程师常见面试题]（http://www.itmayiedu.com/front/articleinfo/63.html）
+[Java高级工程师常见面试题](http://www.itmayiedu.com/front/articleinfo/63.html)
 
 
 * [mou](http://mouapp.com/) 
