@@ -122,7 +122,8 @@ git：命令
 [深入浅出 消息队列 ActiveMQ](http://blog.csdn.net/jwdstef/article/details/17380471)
 
 [Java高级工程师常见面试题](http://www.itmayiedu.com/front/articleinfo/63.html)
-
+[133个Java面试问题列表](https://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=404429590&idx=3&sn=3df497e9d4e903ca4280d3c2a38b8dd7&scene=0&key=4fba1269978cb0d57d667f90a0b34f42c0e8775281f6de2314d0cb3c3696861de91366d51ac10c860e091b233566706e63baab0dde4a414e3efa4456c993d0cf501c622d210dbdeda9fb5ec4427fbf6f&ascene=0&uin=OTU1NDQ5NQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=PyAD17uj6qPa3X3Qcn1nLh8EDH9PSj2DazhHSCRAwns%3D)
+[练手的小项目](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=400559329&idx=1&sn=fc99fec58b5934fff6d37fd86bbabfd2&scene=0&key=d366dccab315fdbfedd540e8b044eaac9eeb105d97d3d794548ded0acccbc64a0c984c70318d8927dae67a23bd4dbfbf53067ea334882c17062fee2c1847cf16a820c6aebb250a8243822c85c0847846&ascene=0&uin=OTU1NDQ5NQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=PyAD17uj6qPa3X3Qcn1nLh8EDH9PSj2DazhHSCRAwns%3D)
 
 
 ## 关于作者
