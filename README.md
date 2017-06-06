@@ -40,7 +40,7 @@
 * 对于随机访问get和set，ArrayList觉得优于LinkedList，因为LinkedList要移动指针。 
 * 对于新增和删除操作add和remove，LinedList比较占优势，因为ArrayList要移动数据。 
  
-######` 总结`：当操作是在一列数据的后面添加数据而不是在前面或中间,并且需要随机地访问其中的元素时,使用ArrayList会提供比较好的性能；当你的操作是在一列数据的前面或中间添加或删除数据,并且按照顺序访问其中的元素时,就应该使用LinkedList了。
+###### ` 总结`：当操作是在一列数据的后面添加数据而不是在前面或中间,并且需要随机地访问其中的元素时,使用ArrayList会提供比较好的性能；当你的操作是在一列数据的前面或中间添加或删除数据,并且按照顺序访问其中的元素时,就应该使用LinkedList了。
 
 #### 数据源 
 * [Druid](https://github.com/alibaba/druid/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
