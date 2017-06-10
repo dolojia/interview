@@ -1,5 +1,5 @@
 ## 漫漫面试路
-最近在准备一些面试，因为还处于准备阶段，所以收集了一些面试方面的资料，边整理边积累，当作复习巩固java基础知识，查漏补缺。
+##### 最近在准备一些面试，因为还处于准备阶段，所以收集了一些面试方面的资料，边整理边积累，当作复习巩固java基础知识，查漏补缺。
 #### 算法
 ##### 冒泡排序
 * 比较相邻的元素。如果第一个比第二个大，就交换他们两个。
@@ -46,11 +46,11 @@
 * [Druid](https://github.com/alibaba/druid/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)
 * Druid连接池统计功能过滤器 web.xml
 
-[线程池的原理及实现](http://blog.csdn.net/hsuxu/article/details/8985931)
+##### [线程池的原理及实现](http://blog.csdn.net/hsuxu/article/details/8985931)
 
 
 #### 并发
-高并发量网站解决方案
+##### 高并发量网站解决方案
 
 #### [事务隔离级别](http://www.cnblogs.com/younggun/archive/2013/07/16/3193800.html)
 
@@ -73,9 +73,9 @@
  * Serializable 是最高的事务隔离级别，在该级别下，事务串行化顺序执行，可以避免脏读、不可重复读与幻读。但是这种事务隔离级别效率低下，比较耗数据库性能，一般不使用。
 * 值得一提的是：大多数数据库默认的事务隔离级别是Read committed，比如Sql Server , Oracle。MySQL的默认隔离级别是Repeatable read。
 
-Spring事务的传播行为，并说说每个传播行为的区别
+##### Spring事务的传播行为，并说说每个传播行为的区别
 
-[Spring事务机制](http://blog.csdn.net/pingnanlee/article/details/11488695)
+##### [Spring事务机制](http://blog.csdn.net/pingnanlee/article/details/11488695)
 
 #### 分布式事务
 
@@ -91,7 +91,7 @@ Spring事务的传播行为，并说说每个传播行为的区别
 * 循环等待 
 
 #### [23种设计模式](http://zz563143188.iteye.com/blog/1847029)
-[设计模式：使用场景、比如单例模式、工厂模式（为什么使用）代理模式]
+##### [设计模式：使用场景、比如单例模式、工厂模式（为什么使用）代理模式]
 * [单例模式的七种写法](http://cantellow.iteye.com/blog/838473)
 * [java 单例模式及运用](http://damon-zhang.iteye.com/blog/1913596)
 
@@ -103,27 +103,28 @@ Spring事务的传播行为，并说说每个传播行为的区别
 #### 图片服务器：fastDFS
 #### [nginx:配置](http://www.cnblogs.com/xiaogangqq123/archive/2011/03/02/1969006.html)
 
-[web如何项目优化](http://bbs.csdn.net/topics/391849317)
+##### [web如何项目优化](http://bbs.csdn.net/topics/391849317)
 
 #### 高并发解决方案：nginx+tomcat多节点
 #### tomcat:配置、jvm配置（session会话同步Tomcat-Redis-Cluster-manager，tomcat插件）
 
-java：虚拟机、拆封箱integer(128)==128 false integer(127)==127 引发java缓存机制int(-128 — 127)
-项目架构：
-数据库：函数跟储存过程的区别
+##### java：虚拟机、拆封箱integer(128)==128 false integer(127)==127 引发java缓存机制int(-128 — 127)
+##### 项目架构：
+##### 数据库：函数跟储存过程的区别
 
 
-redis集群部署
-jenkins:持续集成
-git：命令
+##### redis集群部署
+##### jenkins:持续集成
+##### git：命令
 
-[消息队列的原理和实现](http://blog.csdn.net/blade2001/article/details/5193464)
+##### [消息队列的原理和实现](http://blog.csdn.net/blade2001/article/details/5193464)
 
-[深入浅出 消息队列 ActiveMQ](http://blog.csdn.net/jwdstef/article/details/17380471)
+##### [深入浅出 消息队列 ActiveMQ](http://blog.csdn.net/jwdstef/article/details/17380471)
 
-[Java高级工程师常见面试题](http://www.itmayiedu.com/front/articleinfo/63.html)
-[133个Java面试问题列表](https://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=404429590&idx=3&sn=3df497e9d4e903ca4280d3c2a38b8dd7&scene=0&key=4fba1269978cb0d57d667f90a0b34f42c0e8775281f6de2314d0cb3c3696861de91366d51ac10c860e091b233566706e63baab0dde4a414e3efa4456c993d0cf501c622d210dbdeda9fb5ec4427fbf6f&ascene=0&uin=OTU1NDQ5NQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=PyAD17uj6qPa3X3Qcn1nLh8EDH9PSj2DazhHSCRAwns%3D)
-[练手的小项目](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=400559329&idx=1&sn=fc99fec58b5934fff6d37fd86bbabfd2&scene=0&key=d366dccab315fdbfedd540e8b044eaac9eeb105d97d3d794548ded0acccbc64a0c984c70318d8927dae67a23bd4dbfbf53067ea334882c17062fee2c1847cf16a820c6aebb250a8243822c85c0847846&ascene=0&uin=OTU1NDQ5NQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=PyAD17uj6qPa3X3Qcn1nLh8EDH9PSj2DazhHSCRAwns%3D)
+##### [Java高级工程师常见面试题](http://www.itmayiedu.com/front/articleinfo/63.html)
+##### [133个Java面试问题列表](https://mp.weixin.qq.com/s?__biz=MjM5OTA1MDUyMA==&mid=404429590&idx=3&sn=3df497e9d4e903ca4280d3c2a38b8dd7&scene=0&key=4fba1269978cb0d57d667f90a0b34f42c0e8775281f6de2314d0cb3c3696861de91366d51ac10c860e091b233566706e63baab0dde4a414e3efa4456c993d0cf501c622d210dbdeda9fb5ec4427fbf6f&ascene=0&uin=OTU1NDQ5NQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=PyAD17uj6qPa3X3Qcn1nLh8EDH9PSj2DazhHSCRAwns%3D)
+##### [练手的小项目](https://mp.weixin.qq.com/s?__biz=MjM5NzMyMjAwMA==&mid=400559329&idx=1&sn=fc99fec58b5934fff6d37fd86bbabfd2&scene=0&key=d366dccab315fdbfedd540e8b044eaac9eeb105d97d3d794548ded0acccbc64a0c984c70318d8927dae67a23bd4dbfbf53067ea334882c17062fee2c1847cf16a820c6aebb250a8243822c85c0847846&ascene=0&uin=OTU1NDQ5NQ%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.5+build(16F73)&version=12020810&nettype=WIFI&fontScale=100&pass_ticket=PyAD17uj6qPa3X3Qcn1nLh8EDH9PSj2DazhHSCRAwns%3D)
+##### [最近5年133个Java面试问题列表](http://www.importnew.com/17232.html)
 
 
 ## 关于作者
