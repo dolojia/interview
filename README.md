@@ -132,6 +132,6 @@
 ```javascript
   var ihubo = {
     nickName  : "dolo",
-    site : "https://github.com/DoloXing"
+    site : "https://github.com/dolojia"
   }
 ```
