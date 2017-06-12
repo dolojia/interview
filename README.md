@@ -115,7 +115,7 @@
 
 ##### redis集群部署
 ##### jenkins:持续集成
-##### git：命令
+##### [git：命令](http://blog.csdn.net/dengsilinming/article/details/8000622)
 
 ##### [消息队列的原理和实现](http://blog.csdn.net/blade2001/article/details/5193464)
 
