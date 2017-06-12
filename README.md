@@ -111,6 +111,7 @@
 ##### java：虚拟机、拆封箱integer(128)==128 false integer(127)==127 引发java缓存机制int(-128 — 127)
 ##### 项目架构：
 ##### 数据库：函数跟储存过程的区别
+##### [HTTP响应头信息和请求头信息详解](http://www.cnblogs.com/mumue/archive/2012/04/23/2467072.html)
 
 
 ##### redis集群部署
