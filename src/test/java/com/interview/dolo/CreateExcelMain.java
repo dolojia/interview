@@ -1,4 +1,4 @@
-package com.interview.dolo.main;
+package com.interview.dolo;
 
 import java.util.ArrayList;
 import java.util.HashMap;
