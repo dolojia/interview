@@ -27,5 +27,20 @@
 			<artifactId>poi</artifactId>
 			<version>3.16</version>
 		</dependency>
+
+		<!-- PDF装换 start -->
+		<dependency>
+		    <groupId>org.apache.poi</groupId>
+		    <artifactId>poi-ooxml</artifactId>
+		    <version>3.13</version>
+		</dependency>
+
+		<dependency>
+			<groupId>fr.opensagres.xdocreport</groupId>
+			<artifactId>fr.opensagres.xdocreport.converter.docx.xwpf</artifactId>
+			<version>1.0.5</version>
+		</dependency>
+
+		<!-- PDF装换 end -->
 	</dependencies>
 </project>
