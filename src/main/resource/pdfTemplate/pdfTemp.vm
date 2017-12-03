@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    </meta>
+    <title>PDF测试模板</title>
+    <style type="text/css">
+
+        @page {
+            size: 210mm 297mm;
+            margin-top: 75px;
+            margin-bottom: 50px;
+            background-image: url("back");
+            background-repeat: no-repeat;
+            background-position: left;
+            @top-center {
+                content: element(header)
+            }
+            @bottom-center {
+                content: element(footer)
+            }
+
+        }
+
+        @page {
+
+            background-image: url("file:///F:/workcx5/mis/src/main/resources/epolicyTemplate/pdf-back.png");
+            background-repeat: no-repeat;
+            background-position: left;
+            @top-center {
+                content: element(header)
+            }
+            @bottom-center {
+                content: element(footer)
+            }
+
+        }
+
+        .header {
+            position: running(header);
+            color: #cccccc;
+            font-family: SimSun;
+            padding-top: 25pt;
+            padding-right: 50px;
+        }
+
+        #toop {
+            margin-left: -48px;
+            width: 756px;
+        }
+
+        .footer {
+            margin-bottom: 10px;
+            padding-top: -30px;
+            position: running(footer)
+        }
+
+        .pageNext {
+            page-break-after: always;
+        }
+
+        body {
+            margin: 0px;
+            page: WordSection1;
+            font-family: SimSun;
+        }
+
+        .top {
+            padding-top: 11px;
+        }
+
+        .title {
+            text-align: center;
+        }
+
+        .welcome {
+            font-size: 12px;
+            padding-left: 2px;
+            padding-top: 4px;
+        }
+
+        .td {
+            padding-left: 90px;
+        }
+
+        .tr {
+            height: 29px;
+        }
+
+        .cash {
+            width: 756px;
+            font-size: 14px;
+            cellpadding: 0px;
+            border: 0px;
+        }
+
+        .pour {
+            font-size: 16px;
+            font: bolder;
+        }
+
+        .table3 {
+            align: center;
+        }
+
+        td {
+            border: none; /*这个是单元格，不给他要边框*/
+        }
+
+        .line {
+            border-top: 1px solid #000000;
+            font-weight: bolder;
+            color: #000000;
+            width: 756px;
+        }
+
+        .line2 {
+            border-bottom: 1px solid #000000;
+            color: #000000;
+            width: 756px;
+            line-height: 35px;
+        }
+
+    </style>
+</head>
+<body>
+
+<!-- 页眉 -->
+<div id="toop" class="header">
+    <img alt="" src="${top}" width="810px" height="50px"/>
+</div>
+<!-- 页脚 -->
+<div class="footer">
+    <div align="center" style="font-size:13px;padding-bottom: 5px;">第1页
+        #if($map.page=="1")（共4页）
+        #else（共3页）
+        #end</div>
+    <img alt="" src="${botton}" width="700px"/>
+</div>
+
+
+<div style="padding-left:20px;">
+    <div class="title" style="text-align: left; ">
+        <br/><br/><i style="border-bottom:1.5px solid #000;font-size: 24px;font-weight: bolder;">PDF测试模板</i>
+    </div>
+
+    <br/>
+    <br/>
+    <br/>
+    <div style="font-size: 15px;">
+        <div style="text-align: left; margin: 0 auto; ">
+            <div style="padding-left: 150px;">
+                <table border="0" width="400px" class="table3" align="center"
+                       style="font-size: 14px;table-layout: fixed;">
+                    <tr style="height: 27px;">
+                        <td>
+                            <table>
+                                <tr>
+                                    <td align="left">姓名：</td>
+                                    <td align="left">${map.name}</td>
+                                </tr>
+                            </table>
+
+                        </td>
+                    </tr>
+                    <tr style="height: 27px;">
+                        <td style="word-wrap: break-word;word-break:break-all;">
+                            <table>
+                                <tr>
+                                    <td align="left">电话：</td>
+                                    <td align="left">${map.phone}</td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr style="height: 81px;">
+                        <td valign="top">
+                            <table>
+                                <tr>
+                                    <td align="left" valign="top">地址：</td>
+                                    <td align="left" valign="top">
+                                        ${map.address}
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <br/><br/>
+            <div>《把酒问月》</div>
+
+            <div style="padding-left: 30px;" class="top">青天有月来几时，我今停杯一问之：</div>
+            <div style="padding-left: 30px;" class="top">人攀明月不可得，月行却与人相随？</div>
+            <div style="padding-left: 30px;" class="top">皎如飞镜临丹阙，绿烟灭尽清辉发？</div>
+            <div style="padding-left: 30px;" class="top">但见宵从海上来，宁知晓向云间没？</div>
+            <div style="padding-left: 30px;" class="top">白兔捣药秋复春，嫦娥孤栖与谁邻？</div>
+            <div style="padding-left: 30px;" class="top">今人不见古时月，今月曾经照古人。</div>
+            <div style="padding-left: 30px;" class="top">古人今人若流水，共看明月皆如此。</div>
+            <div style="padding-left: 30px;" class="top">唯愿当歌对酒时，月光长照金樽里。</div>
+
+
+            <div style="padding-left: 553px;"
+                 class="top">${map.nowTime}</div>
+            <br/><br/><br/>
+        </div>
+
+    </div>
+</div>
+
+
+</body>
+</html>

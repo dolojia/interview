@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c701e5ea-6591-4db1-8c50-abff13eed906" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/dolojia.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcmail_jdk14_138.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__bouncycastle_bcprov_jdk14_138.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_7_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_7_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_itextpdf_itextpdf_5_5_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_lowagie_itext_2_1_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_opensagres_xdocreport_fr_opensagres_xdocreport_converter_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_opensagres_xdocreport_fr_opensagres_xdocreport_converter_docx_xwpf_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_opensagres_xdocreport_fr_opensagres_xdocreport_core_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_opensagres_xdocreport_fr_opensagres_xdocreport_itext_extension_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_opensagres_xdocreport_org_apache_poi_xwpf_converter_core_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_opensagres_xdocreport_org_apache_poi_xwpf_converter_pdf_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fr_opensagres_xdocreport_org_apache_poi_xwpf_converter_xhtml_1_0_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_arnx_wmf2svg_0_9_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_engio_mbassador_1_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_api_4_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_impl_4_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_ooxml_schemas_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_3_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_2_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcmail_jdk14_1_38.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk14_1_38.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bctsp_jdk14_1_38.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_docx4j_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_docx4j_ImportXHTML_3_3_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_docx4j_xhtmlrenderer_3_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_plutext_jaxb_svg11_1_0_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_21.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xhtmlrenderer_flying_saucer_core_9_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xhtmlrenderer_flying_saucer_pdf_9_0_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_serializer_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dolo/pdf/FlyingSaucerUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dolo/pdf/PDFContextMaker.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/dolo/pdf/Vm2PDFService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/pdfTemplate/fonts/simhei.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/pdfTemplate/fonts/simsun.ttc" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfTemp.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfTemp.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfname.pdf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resource/pdfTemplate/velocity.vm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/interview/dolo/Vm2PdfTest.java" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/interview/dolo/util/WordUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/interview/dolo/util/WordUtil.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1004">
+              <caret line="75" column="20" lean-forward="true" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordUtil.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/dolo/util/WordUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HtmlToDoc.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/HtmlToDoc.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PDFContextMaker.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/PDFContextMaker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Vm2PDFService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/Vm2PDFService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-505">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1512185812000" expanded="true" signature="5207:5276" ph="{&quot;nickName&quot;: &quot;dolo&quot;...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>contextMaker</find>
+      <find>ITextFontResolver</find>
+      <find>ProductConstants</find>
+      <find>epolicyTemplate</find>
+      <find>reportTemplateName</find>
+      <find>pdf</find>
+      <find>reportTemplatePath</find>
+      <find>epolicyFileName</find>
+      <find>policySerialNumber</find>
+      <find>pdfFile</find>
+      <find>Document</find>
+      <find>RtfWriter2</find>
+      <find>Rectangle</find>
+      <find>wor</find>
+      <find>pdfre</find>
+      <find>docx4j</find>
+      <find>PDFBO</find>
+      <find>PDFBOX</find>
+      <find>--</find>
+      <find>link</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.8/pdfbox-2.0.8.jar!/org/apache/pdfbox/io</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GotoClassSymbolConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="$XSLT" />
+      <filtered-out-file-type name="AIDL" />
+      <filtered-out-file-type name="AndroidDataBinding" />
+      <filtered-out-file-type name="Angular2HTML" />
+      <filtered-out-file-type name="AngularJS" />
+      <filtered-out-file-type name="Apple JS" />
+      <filtered-out-file-type name="Asp" />
+      <filtered-out-file-type name="AspectJ" />
+      <filtered-out-file-type name="CFML" />
+      <filtered-out-file-type name="CSS" />
+      <filtered-out-file-type name="CoffeeScript" />
+      <filtered-out-file-type name="CoffeeScriptLiterate" />
+      <filtered-out-file-type name="DB2" />
+      <filtered-out-file-type name="DTD" />
+      <filtered-out-file-type name="Decompiled SWF" />
+      <filtered-out-file-type name="Derby" />
+      <filtered-out-file-type name="Drools" />
+      <filtered-out-file-type name="ECMA Script Level 4" />
+      <filtered-out-file-type name="ECMAScript 6" />
+      <filtered-out-file-type name="EJBQL" />
+      <filtered-out-file-type name="EL" />
+      <filtered-out-file-type name="EQL" />
+      <filtered-out-file-type name="FTL" />
+      <filtered-out-file-type name="Flow JS" />
+      <filtered-out-file-type name="GSP" />
+      <filtered-out-file-type name="GWT JavaScript" />
+      <filtered-out-file-type name="GWT-CSS" />
+      <filtered-out-file-type name="GenericSQL" />
+      <filtered-out-file-type name="Gherkin" />
+      <filtered-out-file-type name="Groovy" />
+      <filtered-out-file-type name="H2" />
+      <filtered-out-file-type name="HQL" />
+      <filtered-out-file-type name="HSQLDB" />
+      <filtered-out-file-type name="HTML" />
+      <filtered-out-file-type name="HTTP Request" />
+      <filtered-out-file-type name="Haml" />
+      <filtered-out-file-type name="InjectedFreeMarker" />
+      <filtered-out-file-type name="JAVA" />
+      <filtered-out-file-type name="JPAQL" />
+      <filtered-out-file-type name="JQL" />
+      <filtered-out-file-type name="JQuery-CSS" />
+      <filtered-out-file-type name="JSON" />
+      <filtered-out-file-type name="JSP" />
+      <filtered-out-file-type name="JSPX" />
+      <filtered-out-file-type name="JSRegexp" />
+      <filtered-out-file-type name="JSX Harmony" />
+      <filtered-out-file-type name="JShellLanguage" />
+      <filtered-out-file-type name="JavaScript" />
+      <filtered-out-file-type name="JavaScript 1.5" />
+      <filtered-out-file-type name="JavaScript 1.6" />
+      <filtered-out-file-type name="JavaScript 1.7" />
+      <filtered-out-file-type name="JavaScript 1.8" />
+      <filtered-out-file-type name="LESS" />
+      <filtered-out-file-type name="Manifest" />
+      <filtered-out-file-type name="Markdown" />
+      <filtered-out-file-type name="Mxml" />
+      <filtered-out-file-type name="MySQL" />
+      <filtered-out-file-type name="Nashorn JS" />
+      <filtered-out-file-type name="OGNL" />
+      <filtered-out-file-type name="Oracle" />
+      <filtered-out-file-type name="OracleSqlPlus" />
+      <filtered-out-file-type name="PROGUARD" />
+      <filtered-out-file-type name="Play" />
+      <filtered-out-file-type name="PointcutExpression" />
+      <filtered-out-file-type name="PostgreSQL" />
+      <filtered-out-file-type name="PostgresPLSQL" />
+      <filtered-out-file-type name="Properties" />
+      <filtered-out-file-type name="RELAX-NG" />
+      <filtered-out-file-type name="Redshift" />
+      <filtered-out-file-type name="RegExp" />
+      <filtered-out-file-type name="Renderscript" />
+      <filtered-out-file-type name="SASS" />
+      <filtered-out-file-type name="SCSS" />
+      <filtered-out-file-type name="SPI" />
+      <filtered-out-file-type name="SQL" />
+      <filtered-out-file-type name="SQL92" />
+      <filtered-out-file-type name="SQLite" />
+      <filtered-out-file-type name="SpEL" />
+      <filtered-out-file-type name="SpringDataQL" />
+      <filtered-out-file-type name="Stylus" />
+      <filtered-out-file-type name="Sybase" />
+      <filtered-out-file-type name="TEXT" />
+      <filtered-out-file-type name="TML" />
+      <filtered-out-file-type name="TSQL" />
+      <filtered-out-file-type name="ThymeleafExpressions" />
+      <filtered-out-file-type name="ThymeleafIterateExpressions" />
+      <filtered-out-file-type name="ThymeleafSpringSecurityExtras" />
+      <filtered-out-file-type name="ThymeleafTemplatesExpressions" />
+      <filtered-out-file-type name="ThymeleafUrlExpressions" />
+      <filtered-out-file-type name="TypeScript" />
+      <filtered-out-file-type name="TypeScript JSX" />
+      <filtered-out-file-type name="UAST" />
+      <filtered-out-file-type name="UastContextLanguage" />
+      <filtered-out-file-type name="VTL" />
+      <filtered-out-file-type name="XHTML" />
+      <filtered-out-file-type name="XML" />
+      <filtered-out-file-type name="XPath" />
+      <filtered-out-file-type name="XPath2" />
+      <filtered-out-file-type name="YouTrack" />
+      <filtered-out-file-type name="kotlin" />
+      <filtered-out-file-type name="yaml" />
+    </file-type-list>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/resource/vmTemplate/TBT0IGE101.vm" />
+        <option value="$PROJECT_DIR$/src/main/java/com/interview/dolo/util/Vm2Pdf.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/epolicyTemplate/TBT0IGE101.vm" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/ElectronicPolicyPDFService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/interview/dolo/Vm2PdfTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/PDFContextMaker.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/FlyingSaucerUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/interview/dolo/util/WordUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/Vm2PDFService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/VelocityUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfTemp.vm" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/Vm2PDFService.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/pdfTemplate/velocity.vm" />
+        <option value="$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfTemp.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/TestHtml2Docx.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/HtmlToDoc.java" />
+        <option value="$PROJECT_DIR$/velocity.log" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="23" />
+    <option name="width" value="1228" />
+    <option name="height" value="777" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="true" />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames ProjectPane="true" />
+      <autoscrollToSource ProjectPane="true" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType ProjectPane="true" />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="interview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="interview" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29350105" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resource/pdfTemplate" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/dolo/pdf/world" />
+      <recent name="$PROJECT_DIR$/src/main/resource" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/dolo/pdf" />
+      <recent name="$PROJECT_DIR$/src/main/resource/vmTemplate" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.interview.dolo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resource/pdfTemplate" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.HtmlToDoc">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HtmlToDoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dolo.pdf.world.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dolo.pdf.world.HtmlToDoc" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interview" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dolo.pdf.world.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dolo.pdf.world.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interview" />
+      <envs />
+    </configuration>
+    <configuration name="TestHtml2Docx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dolo.pdf.world.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dolo.pdf.world.TestHtml2Docx" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interview" />
+      <envs />
+    </configuration>
+    <configuration name="VelocityUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dolo.pdf.world.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dolo.pdf.world.VelocityUtil" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interview" />
+      <envs />
+    </configuration>
+    <configuration name="Vm2PDFService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dolo.pdf.world.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dolo.pdf.world.Vm2PDFService" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="interview" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Vm2PDFService" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application.VelocityUtil" />
+      <item index="3" class="java.lang.String" itemvalue="Application.HtmlToDoc" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestHtml2Docx" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.HtmlToDoc" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestHtml2Docx" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Vm2PDFService" />
+        <item index="3" class="java.lang.String" itemvalue="Application.VelocityUtil" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c701e5ea-6591-4db1-8c50-abff13eed906" name="Default" comment="" />
+      <created>1512185821119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512185821119</updated>
+      <workItem from="1512185822517" duration="19377000" />
+      <workItem from="1512267990710" duration="9307000" />
+      <workItem from="1512281716184" duration="4825000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="33509000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="23" width="1228" height="777" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32017544" sideWeight="0.44940978" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.50337267" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.49662733" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.31578946" sideWeight="0.496875" order="6" side_tool="true" content_ui="tabs" x="55" y="338" width="1225" height="123" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2925801" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991228" sideWeight="0.49662733" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/Vm2PDFService.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/Vm2PDFService.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.5/velocity-1.5.jar!/org/apache/velocity/runtime/resource/ResourceManagerImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.5/velocity-1.5.jar!/org/apache/velocity/runtime/RuntimeInstance.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="492" column="0" lean-forward="false" selection-start-line="492" selection-start-column="0" selection-end-line="492" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/velocity/velocity/1.5/velocity-1.5.jar!/org/apache/velocity/app/VelocityEngine.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="186" column="0" lean-forward="false" selection-start-line="186" selection-start-column="0" selection-end-line="186" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfTemp.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.classpath">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="61" lean-forward="false" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/pdfTemplate/TBT0IGE101.vm" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interview/dolo/Vm2PdfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/FlyingSaucerUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/FlyingSaucerUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/PDFContextMaker.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/interview/dolo/Word2PdfTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="15" column="61" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xhtmlrenderer/flying-saucer-core/9.0.4/flying-saucer-core-9.0.4.jar!/org/xhtmlrenderer/layout/LayoutContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-829">
+          <caret line="34" column="13" lean-forward="false" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xhtmlrenderer/flying-saucer-core/9.0.4/flying-saucer-core-9.0.4.jar!/org/xhtmlrenderer/layout/SharedContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="106" column="5" lean-forward="true" selection-start-line="106" selection-start-column="5" selection-end-line="106" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lowagie/itext/2.1.7/itext-2.1.7.jar!/com/lowagie/text/Document.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="45" column="24" lean-forward="false" selection-start-line="45" selection-start-column="24" selection-end-line="45" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lowagie/itext/2.1.7/itext-2.1.7.jar!/com/lowagie/text/Rectangle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1512186054000" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1512186054000" expanded="false" signature="140:222" ph="..." />
+            <marker date="1512186054000" expanded="true" signature="1216:1825" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="1871:1882" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="1911:1917" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="1956:2064" ph="{...}" />
+            <marker date="1512186054000" expanded="true" signature="2115:2250" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="2273:2284" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2294:2300" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2334:2345" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2368:2374" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2406:2417" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2429:2435" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2468:2479" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2492:2498" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2535:2546" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2562:2568" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2596:2607" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2623:2629" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2667:2678" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2701:2707" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2745:2756" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2772:2778" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2807:2818" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2834:2840" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2879:2890" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2913:2919" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="2948:2959" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="2986:2992" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="3028:3039" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3055:3061" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="3088:3099" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3115:3121" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="3158:3169" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3192:3198" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="3237:3248" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3264:3270" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="3300:3311" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3327:3333" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="3373:3384" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3407:3413" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="3443:3454" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3481:3487" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="3517:3818" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="3848:3859" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="3880:3886" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="3918:4100" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="4139:4150" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="4178:4184" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="4232:4243" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="4271:4277" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="4310:4428" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="4469:4480" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="4523:4529" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="4557:4568" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="4587:4593" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="4627:4920" ph="{...}" />
+            <marker date="1512186054000" expanded="true" signature="4961:5103" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="5140:5151" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="5170:5176" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="5219:5230" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="5261:5267" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="5320:5331" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="5362:5368" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="5413:5522" ph="{...}" />
+            <marker date="1512186054000" expanded="true" signature="5568:5678" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="5713:5724" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="5748:5754" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="5798:5809" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="5833:5839" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="5904:6064" ph="{...}" />
+            <marker date="1512186054000" expanded="true" signature="6130:6315" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="6354:6365" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="6425:6431" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="6480:6572" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="6612:6623" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="6684:6690" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="6740:6833" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="6871:6882" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="6941:6947" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="6995:7086" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="7127:7138" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="7200:7206" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="7257:7351" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="7386:7397" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="7421:7427" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="7471:7482" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="7506:7512" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="7551:7562" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="7640:7646" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="7694:7705" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="7733:7739" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="7780:7876" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="7925:7936" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="7965:7971" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="8009:8020" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="8096:8102" ph=" }" />
+            <marker date="1512186054000" expanded="false" signature="8149:8160" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="8187:8193" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="8235:8333" ph="{...}" />
+            <marker date="1512186054000" expanded="false" signature="8383:8394" ph=" { " />
+            <marker date="1512186054000" expanded="false" signature="8424:8430" ph=" }" />
+            <marker date="1512186054000" expanded="true" signature="8487:8801" ph="{...}" />
+            <marker date="1512186054000" expanded="true" signature="8862:9577" ph="{...}" />
+            <marker date="1512186054000" expanded="true" signature="9642:11158" ph="{...}" />
+            <marker date="1512186054000" expanded="true" signature="11189:11494" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lowagie/itext-rtf/2.1.7/itext-rtf-2.1.7.jar!/com/lowagie/text/rtf/RtfWriter2.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="827">
+          <caret line="159" column="44" lean-forward="false" selection-start-line="159" selection-start-column="16" selection-end-line="159" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/docx4j/docx4j-ImportXHTML/3.3.0/docx4j-ImportXHTML-3.3.0.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lowagie/itext-rtf/2.1.7/itext-rtf-2.1.7.jar!/com/lowagie/text/rtf/parser/ctrlwords/RtfCtrlWordData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lowagie/itext/2.1.7/itext-2.1.7.jar!/com/lowagie/text/html/HtmlWriter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6272">
+          <caret line="55" column="57" lean-forward="false" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/lowagie/itext/2.1.7/itext-2.1.7.jar!/com/lowagie/text/pdf/PdfReader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="3277" column="29" lean-forward="false" selection-start-line="3277" selection-start-column="29" selection-end-line="3277" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/xhtmlrenderer/flying-saucer-pdf/9.0.4/flying-saucer-pdf-9.0.4.jar!/org/xhtmlrenderer/pdf/ITextRenderer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="764">
+          <caret line="302" column="55" lean-forward="false" selection-start-line="302" selection-start-column="47" selection-end-line="302" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/apache/pdfbox/pdfbox/2.0.8/pdfbox-2.0.8.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16.jar!/org/apache/poi/poifs/filesystem/NPOIFSFileSystem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="438" column="51" lean-forward="false" selection-start-line="438" selection-start-column="45" selection-end-line="438" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16.jar!/org/apache/poi/poifs/filesystem/Entry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16.jar!/org/apache/poi/poifs/filesystem/DocumentEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/3.16/poi-3.16.jar!/org/apache/poi/poifs/filesystem/DirectoryNode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2114">
+          <caret line="186" column="25" lean-forward="false" selection-start-line="186" selection-start-column="25" selection-end-line="186" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/pdfTemplate/velocity.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/Vm2PDFService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="29" column="16" lean-forward="false" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/VelocityUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfTemp.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" column="13" lean-forward="true" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/docx4j/xhtmlrenderer/3.0.0/xhtmlrenderer-3.0.0.jar!/resources/schema/xhtml/catalog-xhtml-common.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/docx4j/xhtmlrenderer/3.0.0/xhtmlrenderer-3.0.0.jar!/resources/schema/xhtml/catalog-xhtml-1.1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/docx4j/xhtmlrenderer/3.0.0/xhtmlrenderer-3.0.0.jar!/resources/schema/xhtml/catalog-xhtml-1.0.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-140">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/docx4j/xhtmlrenderer/3.0.0/xhtmlrenderer-3.0.0.jar!/utilities/Thumbnails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/src.zip!/org/w3c/dom/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="55" column="17" lean-forward="false" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/docx4j/xhtmlrenderer/3.0.0/xhtmlrenderer-3.0.0.jar!/org/docx4j/org/xhtmlrenderer/resource/Resource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/pdfTemplate/pdfTemp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-535">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#10;n#div#0;n#div#1;n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/docx4j/xhtmlrenderer/3.0.0/xhtmlrenderer-3.0.0.jar!/org/docx4j/org/xhtmlrenderer/resource/XMLResource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2297">
+          <caret line="64" column="41" lean-forward="true" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/docx4j/docx4j/3.3.0/docx4j-3.3.0.jar!/org/docx4j/openpackaging/packages/OpcPackage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="291" column="26" lean-forward="false" selection-start-line="291" selection-start-column="26" selection-end-line="291" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/pdfTemplate/velocity.vm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="463" column="6" lean-forward="false" selection-start-line="438" selection-start-column="0" selection-end-line="463" selection-end-column="6" />
+          <folding>
+            <marker date="1512284548000" expanded="true" signature="587:1201" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="614:1194" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="1383:3567" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="1404:3560" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="2286:3015" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="3102:3543" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="3603:22741" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="3672:22734" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="3864:3941" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="4013:4093" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="5551:5627" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="5784:5863" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="5936:6013" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="6086:6165" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="6238:6304" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="6464:6545" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="6618:6687" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="6760:6826" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="6899:6965" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="7038:7110" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="7183:7255" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="7328:7397" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="7470:7539" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="7612:7681" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="7754:7823" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="7896:7965" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="8038:8103" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="8176:8248" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="8321:8390" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="8463:8532" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="8605:8683" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="8756:8831" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="8904:8979" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="9052:9133" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="9206:9287" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="9360:9438" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="9591:9676" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="9749:9825" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="9898:9982" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="10055:10133" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="10206:10284" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="10357:10435" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="10508:10586" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="10659:10733" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="10806:10887" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="10960:11038" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="11111:11189" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="11262:11340" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="11413:11488" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="11561:11636" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="11709:11790" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="11863:11944" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="12017:12095" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="12168:12246" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="12319:12397" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="12470:12548" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="12621:12699" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="12772:12846" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="12919:13000" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="13073:13151" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="13224:13302" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="13375:13453" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="13526:13601" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="13674:13749" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="13822:13903" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="13976:14057" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="14130:14208" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="14281:14359" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="14432:14510" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="14583:14661" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="14734:14812" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="14885:14959" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="15032:15113" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="15186:15264" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="15337:15415" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="15488:15566" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="15639:15714" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="15787:15862" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="15935:16016" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="16089:16170" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="16243:16321" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="16394:16472" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="16545:16623" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="16696:16774" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="16847:16925" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="16998:17072" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="17145:17226" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="17299:17377" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="17450:17528" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="17601:17679" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="17752:17827" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="17900:17975" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="18048:18129" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="18202:18283" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="18356:18434" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="18507:18585" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="18658:18736" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="18809:18887" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="18960:19038" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="19111:19185" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="19258:19339" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="19412:19490" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="19563:19641" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="19714:19792" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="19865:19940" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="20013:20088" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="20161:20242" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="20315:20396" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="20469:20547" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="20620:20698" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="20771:20849" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="20922:21000" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="21073:21151" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="21224:21298" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="21371:21452" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="21525:21603" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="21676:21754" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="21827:21913" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="21986:22073" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="22146:22233" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="22306:22394" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="22467:22548" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="25222:25787" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="25293:25775" ph="{...}" />
+            <marker date="1512284548000" expanded="true" signature="25828:25886" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="25922:26023" ph="..." />
+            <marker date="1512284548000" expanded="true" signature="25955:26017" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/TestHtml2Docx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocity.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/velocity.log.1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1004">
+          <caret line="75" column="20" lean-forward="true" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/interview/dolo/util/WordUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="47" column="31" lean-forward="true" selection-start-line="47" selection-start-column="31" selection-end-line="47" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/world/HtmlToDoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="75" column="9" lean-forward="true" selection-start-line="75" selection-start-column="9" selection-end-line="75" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/PDFContextMaker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="12" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/dolo/pdf/Vm2PDFService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-505">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1512185812000" expanded="true" signature="5207:5276" ph="{&quot;nickName&quot;: &quot;dolo&quot;...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29350105" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29350105" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29350105" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29350105" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>interview</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29350105" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: bouncycastle:bcmail-jdk14:138</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29350105" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
